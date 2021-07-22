@@ -37,7 +37,7 @@ public class Caneta {
         else
             System.out.println("A caneta está rabiscando...");
     }
-    public void tempar(){
+    public void tampar(){
         if(isTampada())
             System.out.println("A caneta já esta tampada!");
         else
